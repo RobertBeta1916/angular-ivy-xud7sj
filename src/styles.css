@@ -1,0 +1,23 @@
+/* Add application styles & imports to this file! */
+#menu-section {
+border-radius: 0ex;
+border-style: double;
+width: 92%;
+margin-left: 2.5%;
+padding-left: 2.5%;
+margin-bottom: 1.5%;
+}
+#left-section-filters {
+float: left;
+margin-left: 2.5%;
+width: 18%;
+text-align: justify;
+border-style: double;
+}
+#right-section-content {
+float: right;
+margin-right: 2.5%;
+width: 74%;
+text-align: justify;
+border-style: double;
+}
